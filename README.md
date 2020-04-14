@@ -6,7 +6,7 @@ Stackbit Fresh Theme original README is located [here](./README.theme.md).
 
 The content of this site is managed by Forestry. Visit [https://forestry.io](https://forestry.io) to manage site content.
 
-# Running Your Site Locally
+# Running This Site Locally
 
 1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
 

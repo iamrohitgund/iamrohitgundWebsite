@@ -1,6 +1,6 @@
 # Website Deployment Design
 
-![image](Files/website_view.png)
+![image](Files/Screen Shot 2020-04-14 at 4.04.38 PM.png)
 
 # Stackbit Fresh Theme
 

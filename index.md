@@ -27,8 +27,12 @@ sections:
   title: Recent Posts
   section_id: recent-posts
   actions:
-  - label: View Blog
-    url: blog/index.html
+  - url: https://rohitgund.com/Files/rohit_gund_resume.pdf
+    label: Resume
+  - label: GitHub
+    url: https://github.com/iamrohitgund
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/iamrohitgund/
   component: posts_block.html
   num_posts_displayed: 4
 layout: home

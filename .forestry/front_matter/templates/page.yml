@@ -25,3 +25,4 @@ fields:
     required: true
 pages:
 - about.md
+- projects.md

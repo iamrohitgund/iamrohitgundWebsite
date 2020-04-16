@@ -1,13 +1,6 @@
 ---
 title: Home
 sections:
-- template: heroblock
-  component: hero_block.html
-  type: heroblock
-  title: ''
-  content: "**Testing Data**"
-  section_id: ''
-  actions: []
 - type: postsblock
   template: postsblock
   title: ''
@@ -21,6 +14,14 @@ sections:
     url: https://www.linkedin.com/in/iamrohitgund/
   component: posts_block.html
   num_posts_displayed: 0
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  image: "/images/undraw_developer_activity_bv83.svg"
+  content: Testing option which has image
+  title: ''
+  section_id: ''
+  actions: []
 layout: home
 menu:
   main:

@@ -1,6 +1,13 @@
 ---
 title: Home
 sections:
+- template: heroblock
+  component: hero_block.html
+  type: heroblock
+  title: ''
+  content: "**Testing Data**"
+  section_id: ''
+  actions: []
 - type: postsblock
   template: postsblock
   title: ''

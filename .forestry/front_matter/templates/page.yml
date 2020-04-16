@@ -25,4 +25,3 @@ fields:
     required: true
 pages:
 - about.md
-- style-guide.md

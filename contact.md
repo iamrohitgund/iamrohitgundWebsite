@@ -1,10 +1,9 @@
 ---
 title: Contact
-menus:
-  main:
-    title: Contact
-    weight: 5
 layout: contact
----
+menu:
+  main:
+    weight: 5
 
-To get in touch fill the form below or contact me at iamrohitgund@gmail.com
+---
+To get in touch fill the form below.

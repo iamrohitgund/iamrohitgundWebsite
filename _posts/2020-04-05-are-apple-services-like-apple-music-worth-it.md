@@ -5,7 +5,9 @@ subtitle: ''
 date: 2020-04-05 07:00:00 +0000
 thumb_img_path: "/images/apple.png"
 content_img_path: ''
-excerpt: ''
+excerpt: Paying for these services is optional, but for trying it out, they also offer
+  few days free trial. I tried these services, and I would say these services are
+  in initial days.
 canonical_url: ''
 
 ---

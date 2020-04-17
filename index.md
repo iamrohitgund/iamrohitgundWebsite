@@ -1,6 +1,15 @@
 ---
 title: Home
 sections:
+- template: heroblock
+  component: hero_block.html
+  type: heroblock
+  content: Welcome to this intro section
+  actions:
+  - label: intro section button
+    url: facebook.com
+  title: intro title
+  section_id: intro-id
 - type: postsblock
   template: postsblock
   title: ''

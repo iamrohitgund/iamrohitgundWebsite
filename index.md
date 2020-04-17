@@ -18,6 +18,18 @@ sections:
     url: "/Files/Rohit_Gund_Resume.pdf"
   content: ''
   image: ''
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  title: Project Repositories
+  actions:
+  - label: GitHub
+    url: https://github.com/iamrohitgund
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/iamrohitgund/
+  section_id: ''
+  content: ''
+  image: ''
 layout: home
 menu:
   main:

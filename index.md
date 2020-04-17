@@ -4,12 +4,20 @@ sections:
 - template: heroblock
   component: hero_block.html
   type: heroblock
-  content: Welcome to this intro section
-  actions:
-  - label: intro section button
-    url: facebook.com
-  title: intro title
+  content: Let me take you through my tech journey
+  actions: []
+  title: Hi, I am Rohit
   section_id: intro-id
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  title: Resume
+  section_id: ''
+  actions:
+  - label: Resume
+    url: "/Files/Rohit_Gund_Resume.pdf"
+  content: ''
+  image: ''
 - type: postsblock
   template: postsblock
   title: ''
@@ -23,14 +31,6 @@ sections:
     url: https://www.linkedin.com/in/iamrohitgund/
   component: posts_block.html
   num_posts_displayed: 0
-- template: contentblock
-  component: content_block.html
-  type: contentblock
-  image: "/images/undraw_developer_activity_bv83.svg"
-  content: Testing option which has image
-  title: ''
-  section_id: ''
-  actions: []
 layout: home
 menu:
   main:

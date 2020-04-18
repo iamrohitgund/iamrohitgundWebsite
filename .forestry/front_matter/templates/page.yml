@@ -24,5 +24,4 @@ fields:
   config:
     required: true
 pages:
-- about.md
 - projects.md

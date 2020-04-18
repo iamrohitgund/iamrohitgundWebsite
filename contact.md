@@ -8,6 +8,10 @@ menu:
     weight: 5
 
 ---
+| --- |
+| <button onclick="window.location.href='tel:+17148739806'">Call Me</button> |
+|  |  | <button onclick="window.location.href='mailto:iamrohitgund@gmail.com'">Email Me</button> |
+
 #### Mail Address: 2404 Nutwood Ave Apt A10, Fullerton, California, 92831, United States
 
 ##### Email: iamrohitgund@gmail.com

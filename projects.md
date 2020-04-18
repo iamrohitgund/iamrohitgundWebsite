@@ -8,13 +8,8 @@ menu:
     weight: 3
 
 ---
-1. **_CoronaVirus Live Data Scrapper_**
+### **_CoronaVirus Live Data Scrapper_**
 
-   **Technology**: Python, beautifulsoup
+###### **Technology**: Python, beautifulsoup
 
-   **GitHub Link**: [https://github.com/iamrohitgund/covid19](https://github.com/iamrohitgund/covid19 "https://github.com/iamrohitgund/covid19") 
-2. **_CoronaVirus Live Data Scrapper_**
-
-   **Technology**: Python, beautifulsoup
-
-   **GitHub Link**: [https://github.com/iamrohitgund/covid19](https://github.com/iamrohitgund/covid19 "https://github.com/iamrohitgund/covid19") 
+###### **GitHub Link**: [https://github.com/iamrohitgund/covid19](https://github.com/iamrohitgund/covid19 "https://github.com/iamrohitgund/covid19") 

@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 5
+    weight: 4
 
 ---
 <button onclick="window.location.href='tel:+17148739806'">Call Me</button> 

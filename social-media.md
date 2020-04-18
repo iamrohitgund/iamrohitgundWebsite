@@ -14,7 +14,7 @@ menu:
 * GitHub
 * BitBucket
 
-## General Social Media:
+## **General Social Media:**
 
 * Instagram
 * Facebook

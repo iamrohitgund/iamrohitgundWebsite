@@ -11,7 +11,21 @@ menu:
 ---
 **Rohit Gund** is a full-stack software engineer.
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Timeline</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/timelinestyle.css">
+
+  
+</head>
+
+<body>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
   
 <!-- The Timeline -->
 
@@ -77,3 +91,8 @@ menu:
 
  
 </ul>
+  
+  
+</body>
+</html>
+

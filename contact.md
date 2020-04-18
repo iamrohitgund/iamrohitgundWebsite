@@ -8,14 +8,8 @@ menu:
     weight: 5
 
 ---
+#### Mail Address: 2404 Nutwood Ave Apt A10, Fullerton, California, 92831, United States
 
-<button onclick="window.location.href='tel:+17148739806'">Call Me</button>
-<button onclick="window.location.href='mailto:iamrohitgund@gmail.com'">Email Me</button>
+##### Email: iamrohitgund@gmail.com
 
-
-
-<!--
-<a href="tel:+17148739806">Call me</a>
-<a href="mailto:iamrohitgund@gmail.com">Email Me</a> -->
-To get in touch fill the form below or send me email at iamrohitgund@gmail.com
-
+##### To get in touch fill the form below :

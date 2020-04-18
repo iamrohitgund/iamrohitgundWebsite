@@ -9,34 +9,10 @@ menu:
 
 ---
 
-<style>
-.container {
-  position: relative;
-  width: 50%;
-}
 
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
+<a href="tel:+17148739806"><img border="0" alt="phone" src="images/phone.svg" width="100" height="100"></a>
+<a href="mailto:iamrohitgund@gmail.com"><img border="0" alt="gmail" src="images/gmail.svg" width="100" height="100"></a>
 
-
-.container:hover .image {
-  opacity: 0.3;
-}
-
-}
-</style>
-
-<div class="container">
-  <a href="tel:+17148739806"><img src="images/phone.svg" alt="Avatar" class="image" style="width:50%"></a>
-  <a href="mailto:iamrohitgund@gmail.com"><img src="images/gmail.svg" alt="Avatar" class="image" style="width:50%"></a>
-
-</div>
 
 <a href="tel:+17148739806">Call me</a>
 

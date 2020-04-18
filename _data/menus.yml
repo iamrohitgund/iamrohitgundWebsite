@@ -1,5 +1,5 @@
 ---
 main:
 - weight: 2
-  url: ' window.open("Files/rohit_gund_resume.pdf")'
+  url: ' window.open("rohitgund.com/Files/rohit_gund_resume.pdf")'
   title: Resume

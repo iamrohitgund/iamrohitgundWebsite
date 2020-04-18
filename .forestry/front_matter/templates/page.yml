@@ -25,3 +25,4 @@ fields:
     required: true
 pages:
 - projects.md
+- social-media.md

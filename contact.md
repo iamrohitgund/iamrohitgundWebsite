@@ -10,8 +10,8 @@ menu:
 ---
 
 
-<a href="tel:+17148739806"><img border="0" alt="phone" src="images/phone.svg" width="100" height="100"></a>
-<a href="mailto:iamrohitgund@gmail.com"><img border="0" alt="gmail" src="images/gmail.svg" width="100" height="100"></a>
+<a href="tel:+17148739806"><img border="0" alt="phone" src="images/phone.png" width="100" height="100"></a>
+<a href="mailto:iamrohitgund@gmail.com"><img border="0" alt="gmail" src="images/gmail.png" width="100" height="100"></a>
 
 
 <a href="tel:+17148739806">Call me</a>

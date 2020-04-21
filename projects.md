@@ -8,7 +8,7 @@ menu:
     weight: 4
 
 ---
-### **_1.CoronaVirus Live Data Scrapper_**
+### **_CoronaVirus Live Data Scrapper_**
 
 ###### **Technology**: Python, beautifulsoup
 
@@ -16,7 +16,7 @@ menu:
 
 ***
 
-### **_2._**Private Cloud Platform For Effective Forensic Analysis
+### Private Cloud Platform For Effective Forensic Analysis
 
 ###### **Technology**: OpenNebula Cloud, Python, Java, MongoDB, SQL, HTML5, CSS3, BootStrap, PHP
 
@@ -30,7 +30,7 @@ menu:
 
 ***
 
-### **_3._**Chat Application
+### Chat Application
 
 ###### **Technology**: Python, Pusher, Flask, SQLAchemy (ORM for SQL)
 
@@ -43,7 +43,7 @@ menu:
 
 ***
 
-### **_4._**Weather GUI Application using Tkinter
+### Weather GUI Application using Tkinter
 
 ###### **Technology**: Tkinter
 
@@ -55,7 +55,7 @@ menu:
 
 ***
 
-### **_5._**• A Car Monitoring System Using IBM Bluemix (IoT)
+### A Car Monitoring System Using IBM Bluemix (IoT)
 
 ###### **Technology**: Not implemented, presented as a seminar topic during undergrad
 

@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 6
+    weight: 5
 
 ---
 <button onclick="window.location.href='tel:+17148739806'">Call Me</button><button onclick="window.location.href='mailto:iamrohitgund@gmail.com'">Email Me</button>

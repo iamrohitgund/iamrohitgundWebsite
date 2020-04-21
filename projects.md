@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 4
+    weight: 3
 
 ---
 ### **_CoronaVirus Live Data Scrapper_**

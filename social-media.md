@@ -8,6 +8,37 @@ menu:
     weight: 4
 
 ---
+
+
+<div class="social-buttons">
+  <a href="#" class="social-buttons__button social-button social-button--facebook" aria-label="Facebook">
+    <span class="social-button__inner">
+     <i class="fab fa-facebook-f"></i>
+    </span>
+  </a>
+  <a href="#" class="social-buttons__button social-button social-button--linkedin" aria-label="LinkedIn">
+    <span class="social-button__inner">
+     <i class="fab fa-linkedin-in"></i>
+    </span>
+  </a>
+  <a href="#" class="social-buttons__button social-button social-button--snapchat" aria-label="SnapChat">
+    <span class="social-button__inner">
+     <i class="fab fa-snapchat-ghost"></i>
+    </span>
+  </a>
+  <a href="#" class="social-buttons__button social-button social-button--github" aria-label="GitHub">
+    <span class="social-button__inner">
+     <i class="fab fa-github"></i>
+    </span>
+  </a>
+  <a href="#" class="social-buttons__button social-button social-button--codepen" aria-label="CodePen">
+    <span class="social-button__inner">
+     <i class="fab fa-codepen"></i>
+    </span>
+  </a>
+</div>
+
+
 ## **Professional Social Media:**
 
 * Linkedin: [https://www.linkedin.com/in/iamrohitgund/](https://www.linkedin.com/in/iamrohitgund/ "https://www.linkedin.com/in/iamrohitgund/")

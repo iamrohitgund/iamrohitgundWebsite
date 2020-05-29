@@ -1,5 +1,1 @@
----
-main:
-- url: OldWebsite/index.html
-  weight: 6
-  title: Old Website
+--- {}

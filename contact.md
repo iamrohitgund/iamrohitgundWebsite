@@ -13,7 +13,7 @@ menu:
 <button onclick="window.location.href='mailto:iamrohitgund@gmail.com'" class="btn btn-primary" type="submit">Email me</button>
 
 
-#### Mail Address: 2404 Nutwood Ave Apt A10, Fullerton, California, 92831, United States
+#### Mail Address: Request Mail address using below forms
 
 ##### Email: iamrohitgund@gmail.com
 

@@ -1,1 +1,5 @@
---- {}
+---
+main:
+- url: rohitgund.com/galary
+  weight: 4
+  title: Galary

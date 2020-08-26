@@ -5,16 +5,12 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 5
+    weight: 6
 
 ---
-<div class="jumbotron">
+<button onclick="window.location.href='tel:+17148739806'">Call Me</button><button onclick="window.location.href='mailto:iamrohitgund@gmail.com'">Email Me</button>
 
-<button onclick="window.location.href='tel:+17148739806'" class="btn btn-primary" type="submit">Call Me</button>
-<button onclick="window.location.href='mailto:iamrohitgund@gmail.com'" class="btn btn-primary" type="submit">Email me</button>
-</div>
-
-#### Mail Address: Request Mail address using below forms
+#### Mail Address: 2404 Nutwood Ave Apt A10, Fullerton, California, 92831, United States
 
 ##### Email: iamrohitgund@gmail.com
 

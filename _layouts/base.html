@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-    <head>    
-        
+    <head>
+
         <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,31 +9,50 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
         <link rel='icon' href='Files/portfolio.png' type='image/x-icon'/ >
-        {% if page.layout == 'post' %} 
+        {% if page.layout == 'post' %}
         {% assign canonical_url_is_not_empty = page.canonical_url | is_not_empty %}
         {% if canonical_url_is_not_empty %}
         <link rel="canonical" href="{{ page.canonical_url }}"/>
         {% endif %}
         {% endif %}
-         
-     
+
+
 
         <!-- Bootstrap Link-->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        
+
         <!-- Timeline CSS -->
         <link rel="stylesheet" href="hovercss/timelinestyle.css">
 
-        
+        <!-- Full width project button -->
+        <style>
+                .block {
+                display: block;
+                width: 100%;
+                border: none;
+                background-color: #0275d8;
+                color: white;
+                padding: 14px 28px;
+                font-size: 16px;
+                cursor: pointer;
+                text-align: center;
+                }
+
+                .block:hover {
+                background-color: #ddd;
+                color: black;
+                }
+          </style>
+
     </head>
     <body>
-        
-        
+
+
         {{ content }}
         <!-- Scripts -->
         <script src="{{ 'assets/js/plugins.js' | relative_url }}"></script>
         <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
-    </body> 
+    </body>
 </html>

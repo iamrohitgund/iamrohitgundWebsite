@@ -8,9 +8,28 @@ menu:
     weight: 3
 
 ---
+
+### **Recommendation System using Probabilistic Matrix Factorization**
+
+###### **Technology**: Python, Data Science and ML libraries 
+
+**Information**:
+
+* Solved problem for recommending user-specific music and movies to new users and existing users with low account history 
+*  Developed Constrained Kernelized Probabilistic Matrix Factorization (cKPMF) model which take advantages of user network mapping
+
+###### **GitHub Link**: [https://github.com/iamrohitgund/](https://github.com/iamrohitgund/BeProject "https://github.com/iamrohitgund/BeProject")
+
+###### The project is yet to submit so can't share codes before submitting it to the university, 
+
+***
+
 ### **_CoronaVirus Live Data Scrapper_**
 
 ###### **Technology**: Python, beautifulsoup
+
+* Scrapped live data from worldometer using Beautifulsoup and performed analysis using python seaborn 
+* Generated user-friendly reports and analytics using python data science library
 
 ###### **GitHub Link**: [https://github.com/iamrohitgund/covid19](https://github.com/iamrohitgund/covid19 "https://github.com/iamrohitgund/covid19")
 
@@ -22,9 +41,9 @@ menu:
 
 **Information**:
 
-* Designed and Implemented smart agent which implied in the client machine that live time traces some logs and other data that can be treated as potential evidence and send them to a server in an encrypted form
-* A unique program at the server-side performs analytics over data collected through the smart agent.
-* To generate potential evidence and stores them in a repository ◦ Evidence will be made available for cyber forensics experts through a web portal.
+* Deployed smart agent in cloud VM for monitoring, collecting potential evidence, and transferred data to server-side for performing analytics. 
+* Generated potential evidence and stored it in a secure repository and made it available for cyber forensics experts through a web portal with a chain of custody records
+* Led team of 3 in the development of this cloud platform as a service research project
 
 ###### **GitHub Link**: [https://github.com/iamrohitgund/BeProject](https://github.com/iamrohitgund/BeProject "link")
 

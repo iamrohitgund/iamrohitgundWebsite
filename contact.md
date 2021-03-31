@@ -10,4 +10,4 @@ menu:
 ---
 <button onclick="window.location.href='mailto:iamrohitgund@gmail.com'">Email Me</button>
 
-##### To get in touch fill the form below or send Email at iamrohitgund@gmail.com:
+#### **To get in touch fill the form below or send an Email to iamrohitgund@gmail.com:**

@@ -8,19 +8,30 @@ menu:
     weight: 3
 
 ---
+### **eCommerce Website**
 
-### **Recommendation System using Probabilistic Matrix Factorization**
-
-###### **Technology**: Python, Data Science and ML libraries 
+###### **Technology**: Django + React
 
 **Information**:
 
-* Solved problem for recommending user-specific music and movies to new users and existing users with low account history 
-*  Developed Constrained Kernelized Probabilistic Matrix Factorization (cKPMF) model which take advantages of user network mapping
+* Designed and developed a dynamic full-stack web application for eCommerce with user-friendly UI/UX using Django Backend and React Frontend
+* Added user sign-up, product search, checkout, and integrated PayPal for easy payments
+* Built internal tool as an admin control panel for modifying products and order processing such as fulfillment and refunds
+
+###### **GitHub Link**: Ongoing 
+
+### **Recommendation System using Probabilistic Matrix Factorization**
+
+###### **Technology**: Python, Data Science and ML libraries
+
+**Information**:
+
+* Solved problem for recommending user-specific music and movies to new users and existing users with low account history
+* Developed Constrained Kernelized Probabilistic Matrix Factorization (cKPMF) model which takes advantages of user network mapping
 
 ###### **GitHub Link**: [https://github.com/iamrohitgund/](https://github.com/iamrohitgund/BeProject "https://github.com/iamrohitgund/BeProject")
 
-###### The project is yet to submit so can't share codes before submitting it to the university, 
+###### The project is yet to submit so can't share codes before submitting it to the university,
 
 ***
 
@@ -28,7 +39,7 @@ menu:
 
 ###### **Technology**: Python, beautifulsoup
 
-* Scrapped live data from worldometer using Beautifulsoup and performed analysis using python seaborn 
+* Scrapped live data from worldometer using Beautifulsoup and performed analysis using python seaborn
 * Generated user-friendly reports and analytics using python data science library
 
 ###### **GitHub Link**: [https://github.com/iamrohitgund/covid19](https://github.com/iamrohitgund/covid19 "https://github.com/iamrohitgund/covid19")
@@ -41,7 +52,7 @@ menu:
 
 **Information**:
 
-* Deployed smart agent in cloud VM for monitoring, collecting potential evidence, and transferred data to server-side for performing analytics. 
+* Deployed smart agent in cloud VM for monitoring, collecting potential evidence, and transferred data to server-side for performing analytics.
 * Generated potential evidence and stored it in a secure repository and made it available for cyber forensics experts through a web portal with a chain of custody records
 * Led team of 3 in the development of this cloud platform as a service research project
 

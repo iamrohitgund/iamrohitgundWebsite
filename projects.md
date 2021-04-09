@@ -18,7 +18,9 @@ menu:
 * Added user sign-up, product search, checkout, and integrated PayPal for easy payments
 * Built internal tool as an admin control panel for modifying products and order processing such as fulfillment and refunds
 
-###### **GitHub Link**: Ongoing 
+###### **GitHub Link**: Ongoing
+
+***
 
 ### **Recommendation System using Probabilistic Matrix Factorization**
 
@@ -56,7 +58,7 @@ menu:
 * Generated potential evidence and stored it in a secure repository and made it available for cyber forensics experts through a web portal with a chain of custody records
 * Led team of 3 in the development of this cloud platform as a service research project
 
-###### **GitHub Link**: [https://github.com/iamrohitgund/BeProject](https://github.com/iamrohitgund/BeProject "link")
+###### **GitHub Link:** [https://github.com/iamrohitgund/Private-Cloud-Platform-for-Forensic-Analysis](https://github.com/iamrohitgund/Private-Cloud-Platform-for-Forensic-Analysis "https://github.com/iamrohitgund/Private-Cloud-Platform-for-Forensic-Analysis")
 
 ***
 

@@ -31,9 +31,7 @@ menu:
 * Solved problem for recommending user-specific music and movies to new users and existing users with low account history
 * Developed Constrained Kernelized Probabilistic Matrix Factorization (cKPMF) model which takes advantages of user network mapping
 
-###### **GitHub Link**: [https://github.com/iamrohitgund/](https://github.com/iamrohitgund/BeProject "https://github.com/iamrohitgund/BeProject")
-
-###### The project is yet to submit so can't share codes before submitting it to the university,
+###### **GitHub Link**: [https://github.com/iamrohitgund/Recommendation-System-using-PMF](https://github.com/iamrohitgund/Recommendation-System-using-PMF "https://github.com/iamrohitgund/Recommendation-System-using-PMF")
 
 ***
 

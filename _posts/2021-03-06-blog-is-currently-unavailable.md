@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Blog is Currently Unavailable
-subtitle: All posts are taken down and will be available shortly
-date: 2021-03-06 08:00:00 +0000
+title: Future Plans
+subtitle: Tech Tips and Programming
+date: 2021-04-27 04:00:00 +0000
 thumb_img_path: ''
 content_img_path: ''
 excerpt: ''
 canonical_url: ''
 
 ---
-Due to the maintenance of the site, all posts are currently taken down.
+Being a die-hard Mac user since 2014, I learned a lot of hidden tips and tricks. Most of the Windows and Linux users are reluctant to switch to macOS by thinking it's not convenient. Stay tuned for the amazing macOS tips and software development hacks on macOS. 
 
-Sorry for the inconvenience. 
+Note: As time permits, I will start posting macOS videos on YouTube and update this blog section regularly. 

@@ -11,7 +11,7 @@ excerpt: Paying for these services is optional, but for trying it out, they also
 canonical_url: ''
 
 ---
-No need to explain my apple love as from the past six years, I am using the Apple ecosystem for my daily tasks. Apple turned to service bases company as well.
+No need to explain my apple love as for the past six years, I am using the Apple ecosystem for my daily tasks. Apple turned to service bases company as well.
 
 Now here in the USA, they offer
 
@@ -28,5 +28,5 @@ Now here in the USA, they offer
 * **Apple Music** suggestions are not that great for Hindi songs for English; it’s okay, not the best.
 * **Apple News+** is excellent for readers as it clubs all famous newspapers and magazines at a single place and arranges articles as per the reader’s choice, plus you can share it with the family of 6 ppl for free and costs monthly $9.90 which I think it is fair pricing.
 * **Apple iCloud** pricing is the same for almost all regions and also reasonably priced as 50GB for $0.99/mo
-* **Apple TV+** has minimal shows, and it’s not worth it. Apple gave it for free for one year; maybe they know charging for this service $4.99/mo is not fair as of now.
+* **Apple TV+** has minimal shows, and it’s not worth it at the time of writing this article. Apple gave it for free for one year; maybe they know charging for this service $4.99/mo is not fair as of now.
 * **Apple Arcade** is suitable for gamers and also costs $4.99/mo

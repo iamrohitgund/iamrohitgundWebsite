@@ -4,7 +4,7 @@ title: Future Plans
 subtitle: Tech Tips and Programming
 date: 2021-04-27 04:00:00 +0000
 thumb_img_path: "/images/macos-big-sur-5.png"
-content_img_path: "/images/macos-big-sur-5.png"
+content_img_path: ''
 excerpt: ''
 canonical_url: ''
 

@@ -8,6 +8,4 @@ menu:
     weight: 6
 
 ---
-<button onclick="window.location.href='mailto:iamrohitgund@gmail.com'">Email Me</button>
-
-#### **To get in touch fill the form below or send an Email to iamrohitgund@gmail.com:**
+#### **Fill the below form to get in touch or requesting Resume:**

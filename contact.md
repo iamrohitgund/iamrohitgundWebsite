@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: contact
-subtitle: ''
+subtitle: iamrohitgund@gmail.com
 img_path: ''
 menu:
   main:

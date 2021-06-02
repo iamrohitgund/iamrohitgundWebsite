@@ -8,6 +8,8 @@ menu:
     weight: 3
 
 ---
+> I worked for inforbird.in for one year, infobird.in projects are not included here. Below are the projects I worked on during my BS, MS and some projects are just out of a hobby. Many projects other than those listed below are still residing in the private repository.
+
 ### **eCommerce Website**
 
 ###### **Technology**: Django + React
@@ -93,6 +95,6 @@ menu:
 
 * Data such as location, speed, engine RPM, temperature, run time, fuel level, etc. fetched from the vehicle using OBD-II.
 * The same data is then shared with a smartphone using Bluetooth. Smartphone uploads the data to the IBM BlueMix Cloud. Data is stored and processed on the cloud.
-* Various patterns are analyzed for vehicle condition, driver’s driving pattern and overall vehicle condition and presented data visualization
+* Various patterns are analyzed for vehicle condition, driver’s driving pattern, and overall vehicle condition and presented data visualization
 
   ***

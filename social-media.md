@@ -19,5 +19,4 @@ menu:
 * Instagram: [http://instagram.com/iamrohitgund](http://instagram.com/iamrohitgund "http://instagram.com/iamrohitgund")
 * Facebook: [https://www.facebook.com/iamrohitgund](https://www.facebook.com/iamrohitgund "https://www.facebook.com/iamrohitgund")
 * Twitter: [https://twitter.com/iamrohitgund](https://twitter.com/iamrohitgund "https://twitter.com/iamrohitgund")
-* Self Hosted WordPress Blog: [http://infobird.in/](http://infobird.in/ "http://infobird.in/")
 * Free WordPress Blog: [https://iamrohitgund.wordpress.com/](https://iamrohitgund.wordpress.com/ "https://iamrohitgund.wordpress.com/")

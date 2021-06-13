@@ -5,7 +5,7 @@ subtitle: iamrohitgund@gmail.com
 img_path: ''
 menu:
   main:
-    weight: 6
+    weight: 5
 
 ---
 #### **Fill the below form to get in touch or requesting Resume:**

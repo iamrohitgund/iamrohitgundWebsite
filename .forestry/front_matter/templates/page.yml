@@ -24,7 +24,6 @@ fields:
   config:
     required: true
 pages:
-- galary.md
 - projects.md
 - social-media.md
 - testing-html-page.md

@@ -8,10 +8,6 @@ menu:
     weight: 3
 
 ---
-> ###### I worked for inforbird.in for one year, infobird.in projects are not included here. Below are the projects I worked on during my BS, MS and some projects are just out of a hobby. Many projects other than those listed below are still residing in the private repository. 
->
-> ###### Visit [_Github_](https://github.com/iamrohitgund "GitHub") for work samples
-
 ### **eCommerce Website**
 
 ###### **Technology**: Django + React

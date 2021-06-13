@@ -1,6 +1,18 @@
 {
   "links": [
     {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/iamrohitgund"
+    },
+    {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/iamrohitgund"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -11,18 +23,6 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/iamrohitgund"
-    },
-    {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/iamrohitgund"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/iamrohitgund"
     }
   ]
 }

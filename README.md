@@ -3,11 +3,11 @@
 	
 
 
-- 🌱 I’m currently **looking for full-time job opportunities as a Software Engineer**
+- 🌱 I’m currently **working as as a Software Engineer at Amazon Web Services**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/iamrohitgund?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** and **JAVA**
 
 - 📫 How to reach me **iamrohitgund@gmail.com**
 

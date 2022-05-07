@@ -8,4 +8,4 @@ menu:
     weight: 5
 
 ---
-#### **Fill the below form to get in touch or requesting Resume:**
+#### **Fill the below form to get in touch:**

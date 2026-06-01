@@ -1,11 +1,11 @@
 ---
 title: Contact
 layout: contact
-subtitle: iamrohitgund@gmail.com
+subtitle: ''
 img_path: ''
 menu:
   main:
     weight: 5
 
 ---
-#### **Fill the below form to get in touch:**
+For direct inquiries, email me at [iamrohitgund@gmail.com](mailto:iamrohitgund@gmail.com), or use the form below.

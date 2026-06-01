@@ -25,11 +25,6 @@ sections:
   templates:
   - home
 - type: document
-  path: blog/index.md
-  label: Blog
-  templates:
-  - blog
-- type: document
   path: contact.md
   label: Contact
   templates:
@@ -39,14 +34,9 @@ sections:
   label: Page
   create: all
   match: "**/*.md"
-  exclude: "{_posts/**,README.md,LICENSE.md,index.md,blog/index.md,contact.md}"
+  exclude: "{README.md,LICENSE.md,index.md,contact.md}"
   templates:
   - page
-- type: jekyll-posts
-  label: Post
-  create: all
-  templates:
-  - post
 - type: document
   path: _data/menus.yml
   label: Site Menus

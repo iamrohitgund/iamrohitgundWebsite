@@ -10,7 +10,7 @@ pagesDir: ''
 pageLayoutKey: layout
 metadata:
   title: Fresh
-  description: A personal theme with a blog
+  description: A personal portfolio theme
   author: Stackbit
   authorURL: 'https://www.stackbit.com'
   images:
@@ -141,8 +141,8 @@ models:
       - type: string
         name: permalink
         label: Permalink
-        description: 'The output path for your pages, posts, or collections.'
-        default: '/posts/:slug:output_ext'
+        description: The output path for your pages.
+        default: '/:slug:output_ext'
         hidden: true
       - type: enum
         name: layout_style
@@ -333,27 +333,9 @@ models:
           models:
             - heroblock
             - contentblock
-            - postsblock
       - type: page_menus
         name: menus
         label: Home Menus
-        description: Which menus should this page show up in
-  blog:
-    type: page
-    label: Blog
-    template: blog
-    file: blog/index.md
-    hideContent: true
-    singleInstance: true
-    fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the page.
-        required: true
-      - type: page_menus
-        name: menus
-        label: Blog Menus
         description: Which menus should this page show up in
   contact:
     type: page
@@ -401,45 +383,6 @@ models:
       - type: page_menus
         name: menus
         label: Page Menus
-        description: Which menus should this page show up in
-  post:
-    type: page
-    label: Post
-    template: post
-    folder: _posts
-    fields:
-      - type: string
-        name: title
-        label: Title
-        description: The title of the post
-        required: true
-      - type: string
-        name: subtitle
-        label: Subtitle
-        description: The text shown just below the post title.
-      - type: date
-        name: date
-        label: Date
-        required: true
-      - type: image
-        name: thumb_img_path
-        label: Featured Image
-        description: The image shown in the blog feed.
-      - type: image
-        name: content_img_path
-        label: Alternative Featured Image
-        description: The image shown in the single post.
-      - type: string
-        name: excerpt
-        label: Excerpt
-        description: The excerpt of the post displayed in the blog feed.
-      - type: image
-        name: canonical_url
-        label: Canonical URL
-        description: 'The canonical url of the post, if post originates elsewhere.'
-      - type: page_menus
-        name: menus
-        label: Post Menus
         description: Which menus should this page show up in
   section:
     type: object
@@ -505,18 +448,6 @@ models:
         name: image
         label: Image
         description: The image displayed below the section title.
-  postsblock:
-    type: object
-    label: Posts List
-    extends:
-      - section
-    fields:
-      - name: component
-        default: posts_block.html
-      - type: number
-        name: num_posts_displayed
-        label: Number of posts to display
-        required: true
   site_menus:
     type: data
     file: menus.yml

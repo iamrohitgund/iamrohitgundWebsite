@@ -10,7 +10,7 @@
         </p><!-- .profile -->
         {% endif %}
         <div class="site-identity">
-          {% if page.layout == 'home' or page.layout == 'blog' %}
+          {% if page.layout == 'home' %}
           <h1 class="site-title"><a href='{{ '/' | relative_url }}'>{{ site.header.title }}</a></h1>
           {% else %}
           <p class="site-title"><a href='{{ '/' | relative_url }}'>{{ site.header.title }}</a></p>

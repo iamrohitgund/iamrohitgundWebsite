@@ -15,7 +15,6 @@ fields:
   template_types:
   - heroblock
   - contentblock
-  - postsblock
 - type: text
   name: layout
   label: Layout

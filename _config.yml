@@ -34,6 +34,3 @@ exclude:
 - netlify.toml
 - stackbit-build.sh
 - stackbit-pull.js
-collections:
-  posts:
-    permalink: "/posts/:title/"

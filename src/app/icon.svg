@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#111827" />
+  <path
+    d="M22 22 12 32l10 10"
+    fill="none"
+    stroke="#38bdf8"
+    stroke-width="5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <path
+    d="m42 22 10 10-10 10"
+    fill="none"
+    stroke="#38bdf8"
+    stroke-width="5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <text
+    x="32"
+    y="38"
+    text-anchor="middle"
+    font-family="Inter, Arial, sans-serif"
+    font-size="15"
+    font-weight="800"
+    fill="#f9fafb"
+    letter-spacing="0"
+  >
+    RG
+  </text>
+</svg>
